@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi. That's me 👋
 
 <!--
 **izzettekbas/izzettekbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
